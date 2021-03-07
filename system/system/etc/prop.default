@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Tue Apr 30 04:04:38 UTC 2019
+ro.bootimage.build.date.utc=1556597078
+ro.bootimage.build.fingerprint=XiaoMi/mi_lx04/mi_lx04:8.1.0/O11019/1556597081:user/test-keys
+persist.sys.usb.config=none

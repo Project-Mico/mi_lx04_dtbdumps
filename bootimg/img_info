@@ -1,0 +1,12 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+kernel_size=6760447
+ramdisk_size=4699869
+base_addr=0x40000000
+kernel_offset=0x00008000
+ramdisk_offset=0x15000000
+tags_offset=0x14000000
+cmd_line='bootopt=64S3,32N2,32N2 buildvariant=user veritykeyid=id:81ae03131abda46ca6c0b62793c7590985836ed1'
+board=""
+format=gzip
