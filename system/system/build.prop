@@ -5,6 +5,7 @@ ro.build.id=O11019
 ro.build.display.id=O11019 test-keys
 ro.build.version.incremental=1556597081
 ro.build.version.sdk=27
+ro.product.first_api_level=27
 ro.build.version.preview_sdk=0
 ro.build.version.codename=REL
 ro.build.version.all_codenames=REL
